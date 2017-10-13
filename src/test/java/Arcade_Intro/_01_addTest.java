@@ -3,8 +3,8 @@ package Arcade_Intro;
 import junit.framework.TestCase;
 import org.junit.jupiter.api.Test;
 
-public class _1_addTest extends TestCase {
-    private final _1_add testObj = new _1_add();
+public class _01_addTest extends TestCase {
+    private final _01_add testObj = new _01_add();
 
     @Test
     public void test_1_add(){

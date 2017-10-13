@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class _2_centuryFromYearTest {
-    private final _2_centuryFromYear testObj = new _2_centuryFromYear();
+class _02_centuryFromYearTest {
+    private final _02_centuryFromYear testObj = new _02_centuryFromYear();
 
     @Test
     void centuryFromYear() {
