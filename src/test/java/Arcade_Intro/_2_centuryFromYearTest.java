@@ -10,8 +10,11 @@ class _2_centuryFromYearTest {
     @Test
     void centuryFromYear() {
         assertEquals(testObj.centuryFromYear(1905), 20);
-        assertEquals(testObj.centuryFromYear(1701), 18);
-        assertEquals(testObj.centuryFromYear(1700), 16);
-        assertEquals(testObj.centuryFromYear(1800), 17);
+        assertEquals(testObj.centuryFromYear(1988), 20);
+        assertEquals(testObj.centuryFromYear(1700), 17);
+        assertEquals(testObj.centuryFromYear(2000), 20);
+        assertEquals(testObj.centuryFromYear(2001), 21);
+        assertEquals(testObj.centuryFromYear(200), 2);
+        assertEquals(testObj.centuryFromYear(374), 4);
     }
 }
