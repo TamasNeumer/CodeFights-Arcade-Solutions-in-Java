@@ -1,3 +1,5 @@
+package Arcade_Intro;
+
 public class _24_minesweeper {
     int[][] minesweeper(boolean[][] matrix) {
         int[][] answer = new int[matrix.length][matrix[0].length];

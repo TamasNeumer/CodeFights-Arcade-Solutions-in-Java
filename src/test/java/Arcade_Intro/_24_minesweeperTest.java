@@ -1,3 +1,6 @@
+package Arcade_Intro;
+
+import Arcade_Intro._24_minesweeper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
