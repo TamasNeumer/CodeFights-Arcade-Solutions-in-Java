@@ -10,7 +10,7 @@ class _44_findEmailDomainTest {
     @Test
     void findEmailDomain() {
         assertEquals(obj.findEmailDomain("prettyandsimple@example.com"), "example.com");
-        assertEquals(obj.findEmailDomain( "yandex.ru"), "");
+        assertEquals(obj.findEmailDomain( "someaddress@yandex.ru"), "yandex.ru");
     }
 
 }
