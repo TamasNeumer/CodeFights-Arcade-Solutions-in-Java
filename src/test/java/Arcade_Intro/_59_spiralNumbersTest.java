@@ -2,8 +2,8 @@ package Arcade_Intro;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class _58_spiralNumbersTest {
-    final static _58_spiralNumbers obj = new _58_spiralNumbers();
+class _59_spiralNumbersTest {
+    final static _59_spiralNumbers obj = new _59_spiralNumbers();
 
     @org.junit.jupiter.api.Test
     void spiralNumbers() {

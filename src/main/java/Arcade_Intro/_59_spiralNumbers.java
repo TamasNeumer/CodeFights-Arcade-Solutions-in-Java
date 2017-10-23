@@ -1,6 +1,6 @@
 package Arcade_Intro;
 
-public class _58_spiralNumbers {
+public class _59_spiralNumbers {
     int[][]spiralNumbers(int n){
         int[][] array = new int[n][n];
 
