@@ -1,5 +1,7 @@
 package Arcade_Intro;
 
+import java.util.ArrayList;
+
 public class _58_messageFromBinaryCode {
     String messageFromBinaryCode(String code) {
         StringBuilder sb = new StringBuilder();
