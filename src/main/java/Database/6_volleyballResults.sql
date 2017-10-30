@@ -1,0 +1,1 @@
+SELECT * from results ORDER BY wins;
